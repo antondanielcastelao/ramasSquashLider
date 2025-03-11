@@ -12,4 +12,7 @@ git commit -m "A"
 # hacer un commit
 git add .\README.md
 git commit -m "B"
+# ultimo commit
+git add .\README.md
+git commit -m "C"
 ```
