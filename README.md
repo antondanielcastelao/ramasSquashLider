@@ -13,5 +13,6 @@ git checkout -b colaborador
 git commit -m "A"
 # commit B
 git commit -m "B"
-
+# commit C
+git commit -m "C"
 ```
