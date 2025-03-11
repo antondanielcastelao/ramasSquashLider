@@ -11,5 +11,7 @@
 git checkout -b colaborador
 # commit a 
 git commit -m "A"
+# commit B
+git commit -m "B"
 
 ```
